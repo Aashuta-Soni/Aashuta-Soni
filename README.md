@@ -2,6 +2,7 @@
 - 👀 I’m interested in UI Design and Front-end Development.
 - 🌱 I’m currently learning UI Design using Figma.
 - 📫 How to reach me - https://www.linkedin.com/in/aashuta-soni-761a73234/
+- 😄 Pronouns: She/Her
 
 
 <!---
